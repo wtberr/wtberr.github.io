@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. wberr@stanford.edu
+subtitle: <a href='#'>Affiliations</a>. wberr (at) stanford (dot) edu
 
 profile:
   align: right
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Will Berriman is a student at Stanford University pursuing a B.S. in Economics and an M.S. in Management Science and Engineering. He conducts research at the [Stanford Institute for Human-Centered AI](https://hai.stanford.edu) and the [Language Data and Reasoning Lab](https://ldr.stanford.edu), focusing on applied natural language processing and machine learning systems.
+I am a student at Stanford University pursuing a B.S. in Economics and an M.S. in Management Science and Engineering. I conduct research at the [Stanford Institute for Human-Centered AI](https://hai.stanford.edu) and the [Language Data and Reasoning Lab](https://ldr.stanford.edu), focusing on applied natural language processing and machine learning systems.
 
-He has conducted independent research on [deceased donor kidney allocation](https://drive.google.com/file/d/12otIllQDdukP4GnWqbfzD3mJzdq7sBEw/view?usp=sharing), with an emphasis on surgeon workforce capacity constraints and their impact on organ discard rates. Previously, he was an Undergraduate Research Fellow at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu), where he worked on projects related to illicit agricultural markets in Sub-Saharan Africa and the civic engagement effects of the Flint water crisis.
+I have conducted independent research on [deceased donor kidney allocation](https://drive.google.com/file/d/12otIllQDdukP4GnWqbfzD3mJzdq7sBEw/view?usp=sharing), with an emphasis on surgeon workforce capacity constraints and their impact on organ discard rates. Previously, I was an Undergraduate Research Fellow at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu), where I worked on projects related to illicit agricultural markets in Sub-Saharan Africa and the civic engagement effects of the Flint water crisis.
 
-His research interests span computational economics, operations research, market design, sociology, and machine learning. He is a QuestBridge Scholar and recipient of the Rensselaer Medal for Math and Science, as well as the Stanford School of Engineering Coterminal Fellowship. He also has a strong interest in labor economics and the effects of large language models on skilled trade labor markets, informed by five years of experience in residential construction and retail and wholesale plant nurseries.
+My research interests span computational economics, operations research, market design, sociology, and machine learning. I am a QuestBridge Scholar and recipient of the Rensselaer Medal for Math and Science, as well as the Stanford School of Engineering Coterminal Fellowship. I am also interested in labor economics and the effects of large language models on skilled trade labor markets, informed by five years of experience in residential construction and retail and wholesale plant nurseries.
+
+Please feel free to reach out over email at wberr (at) stanford (dot) edu.
