@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. wberr@stanford.edu
 
 profile:
   align: right
-  image: will_b.jpg
+  image: will_b.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Doylestown, Pennsylvania</p>
