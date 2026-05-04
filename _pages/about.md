@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Will Berriman is a student at Stanford University pursuing a B.S. in economics and an M.S. in Management Science and Engineering. He currently does research at [Stanford's Institute for Human Centered AI](https://hai.stanford.edu) and the [Language Data and Reasoning Lab](https://ldr.stanford.edu). He has been conducting self directed research on deceased donor kidney allocation, focusing on surgeon work force capacity constraints and their influence on discard rate reduction.
+Will Berriman is a student at Stanford University pursuing a B.S. in economics and an M.S. in Management Science and Engineering. He currently does research at [Stanford's Institute for Human Centered AI](https://hai.stanford.edu) and the [Language Data and Reasoning Lab](https://ldr.stanford.edu). He has been conducting self directed research on [deceased donor kidney allocation](https://drive.google.com/file/d/12otIllQDdukP4GnWqbfzD3mJzdq7sBEw/view?usp=sharing), focusing on surgeon work force capacity constraints and their influence on discard rate reduction. Formerly, he was an Undergraduate Research Fellow at [Stanford's Institute for Economic Policy Research](https://siepr.stanford.edu)
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
