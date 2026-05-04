@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a student at Stanford University pursuing a B.S. in Economics and an M.S. in Management Science and Engineering. I conduct research at the [Stanford Institute for Human-Centered AI](https://hai.stanford.edu) and the [Language Data and Reasoning Lab](https://ldr.stanford.edu), focusing on applied natural language processing and machine learning systems.
+Hi! I am a student at Stanford University pursuing a B.S. in Economics and an M.S. in Management Science and Engineering. I conduct research at the [Stanford Institute for Human-Centered AI](https://hai.stanford.edu) and the [Language Data and Reasoning Lab](https://ldr.stanford.edu), focusing on applied natural language processing and machine learning systems.
 
 I have conducted independent research on [deceased donor kidney allocation](https://drive.google.com/file/d/12otIllQDdukP4GnWqbfzD3mJzdq7sBEw/view?usp=sharing), with an emphasis on surgeon workforce capacity constraints and their impact on organ discard rates. Previously, I was an Undergraduate Research Fellow at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu), where I worked on projects related to illicit agricultural markets in Sub-Saharan Africa and the civic engagement effects of the Flint water crisis.
 
