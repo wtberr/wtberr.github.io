@@ -13,7 +13,6 @@ cv:
       username: will-berriman
 
   sections:
-
     Education:
       - institution: Stanford University
         location: Palo Alto, California
@@ -31,6 +30,7 @@ cv:
 
       - institution: Stanford University
         location: Palo Alto, California
+        url: https://www.stanford.edu
         area: Economics
         studyType: B.S.
         start_date: 2022
@@ -49,27 +49,25 @@ cv:
           - Analysis of Variance and Regressions
 
     Experience:
-      - company: Stanford Institute for Human-Centered AI (Digital Economy Lab)
+      - company: Stanford Institute for Human-Centered AI, Digital Economy Lab
         position: Research Intern
         location: Stanford, CA
         start_date: May 2025
         end_date: Present
-        summary: Applied machine learning and NLP to large-scale social media datasets.
         highlights:
-          - Web scraped and analyzed over 45,000 Reddit accounts to reverse engineer an XGBoost bot detection system trained on millions of users
-          - Performed NLP analysis on ~7 million Reddit comments using TopicBERT embeddings and clustering
-          - Modeled user engagement using datasets exceeding 243 million comments
+          - Web scraped and analyzed over 45,000 Reddit accounts to reverse engineer an XGBoost bot detection system trained on millions of users.
+          - Performed NLP analysis on approximately 7 million Reddit comments using TopicBERT embeddings and clustering.
+          - Modeled user engagement using datasets exceeding 243 million comments.
 
       - company: Stanford Institute for Economic Policy Research
         position: King Center Research Fellow
         location: Stanford, CA
         start_date: Jan 2024
         end_date: Jun 2025
-        summary: Conducted econometric and machine learning analysis on large-scale economic datasets.
         highlights:
-          - Led econometric analysis on supply chain effects from an informational intervention involving 800+ traders
-          - Worked with datasets exceeding 1 million observations across pricing, climate, and spatial variables
-          - Applied DiD, logit, and machine learning models using census surname and geospatial data
+          - Led econometric analysis of supply chain effects from an informational intervention involving more than 800 Sub-Saharan African agricultural traders and suppliers.
+          - Worked with datasets exceeding 1 million observations across pricing, climate, and spatial variables.
+          - Applied difference-in-differences, pricing, logit, and machine learning models using census surname and geospatial data.
 
       - company: Reso
         position: Founder / Full Stack Developer
@@ -77,37 +75,41 @@ cv:
         start_date: May 2024
         end_date: Jun 2025
         highlights:
-          - Built a movie recommendation system using NLP over a dataset of 10M+ titles
-          - Designed backend infrastructure, user database, and UI using React Native and Python
+          - Designed a movie recommendation algorithm using NLP to source movies from a database of more than 10 million titles.
+          - Created and managed backend infrastructure, user databases, servers, and UI using React Native and Python.
 
-    Leadership and Volunteering:
+    Volunteer:
       - organization: Associated Students of Stanford University
         position: Vice President
+        location: Stanford, CA
         start_date: May 2025
         end_date: Present
         highlights:
-          - Represent over 18,000 students as Vice President of the student body
-          - Oversee both Undergraduate Senate and Graduate Student Council
+          - Elected Vice President of Stanford’s student body government, representing more than 18,000 students.
+          - Oversee the Undergraduate Senate and Graduate Student Council.
 
-      - organization: Interfraternity Council (IFC)
+      - organization: Interfraternity Council
         position: President
+        location: Stanford, CA
         start_date: Dec 2024
         end_date: Dec 2025
         highlights:
-          - Led coordination with university administration on behalf of the Greek community
-          - Managed organizational standards and large-scale recruitment processes
+          - Coordinate and negotiate with Stanford administration on behalf of the fraternity and sorority life community.
+          - Propose administrative legislation, uphold standards across multiple organizations, and supervise fraternity recruitment logistics.
 
-      - organization: Habla (ESL Organization)
+      - organization: Habla
         position: Director of Community Outreach
+        location: Stanford, CA
         start_date: Nov 2022
         end_date: Jun 2025
         highlights:
-          - Organized 100+ ESL recruitment and engagement events
+          - Organized advertising and logistics for more than 100 ESL coach and learner recruitment events.
 
     Honors:
       - QuestBridge Scholar
       - Rensselaer Medal in Math and Science
-      - Stanford School of Engineering’s Coterminal Fellowship
+      - Stanford School of Engineering Coterminal Fellowship
+      - 2024 Donald C. Dilley Jr. Scholarship Recipient
 
     Skills:
       - Python
@@ -122,6 +124,6 @@ cv:
 
     Interests:
       - Machine Learning
-      - Market Design and Auction Theory
+      - Auction Theory and Market Design
       - Mobile App Development
       - Art and Literature
