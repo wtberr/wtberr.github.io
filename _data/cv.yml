@@ -1,24 +1,18 @@
 cv:
   name: Will Berriman
-  label: Student
   email: wberr (at) stanford (dot) edu
-  location: Stanford, CA
-  image: ""
-  summary: Student at Stanford University working on machine learning, market design, and computational social science, with experience in NLP, econometrics, and large-scale data analysis.
-
-  social_networks:
-    - network: GitHub
-      username: wtberr
-    - network: LinkedIn
-      username: will-berriman
+  website: ""
+  summary: >
+    Student at Stanford University working on machine learning, market design,
+    and computational social science, with experience in NLP, econometrics,
+    and large-scale data analysis.
 
   sections:
-    Education:
+    education:
       - institution: Stanford University
-        location: Palo Alto, California
-        url: https://www.stanford.edu
         area: Management Science and Engineering
-        studyType: M.S.
+        study_type: M.S.
+        location: Palo Alto, CA
         start_date: 2026
         end_date: 2027
         courses:
@@ -29,10 +23,9 @@ cv:
           - Machine Learning
 
       - institution: Stanford University
-        location: Palo Alto, California
-        url: https://www.stanford.edu
         area: Economics
-        studyType: B.S.
+        study_type: B.S.
+        location: Palo Alto, CA
         start_date: 2022
         end_date: 2026
         score: "GPA: 3.7/4.0"
@@ -48,16 +41,16 @@ cv:
           - Game Theory
           - Analysis of Variance and Regressions
 
-    Experience:
+    experience:
       - company: Stanford Institute for Human-Centered AI, Digital Economy Lab
         position: Research Intern
         location: Stanford, CA
         start_date: May 2025
         end_date: Present
         highlights:
-          - Web scraped and analyzed over 45,000 Reddit accounts to reverse engineer an XGBoost bot detection system trained on millions of users.
-          - Performed NLP analysis on approximately 7 million Reddit comments using TopicBERT embeddings and clustering.
-          - Modeled user engagement using datasets exceeding 243 million comments.
+          - Web scraped and analyzed over 45,000 Reddit accounts to reverse engineer an XGBoost bot detection system trained on millions of users
+          - Performed NLP analysis on approximately 7 million Reddit comments using TopicBERT embeddings and clustering
+          - Modeled user engagement using datasets exceeding 243 million comments
 
       - company: Stanford Institute for Economic Policy Research
         position: King Center Research Fellow
@@ -65,9 +58,9 @@ cv:
         start_date: Jan 2024
         end_date: Jun 2025
         highlights:
-          - Led econometric analysis of supply chain effects from an informational intervention involving more than 800 Sub-Saharan African agricultural traders and suppliers.
-          - Worked with datasets exceeding 1 million observations across pricing, climate, and spatial variables.
-          - Applied difference-in-differences, pricing, logit, and machine learning models using census surname and geospatial data.
+          - Led econometric analysis of supply chain effects from an informational intervention involving more than 800 Sub-Saharan African traders
+          - Worked with datasets exceeding 1 million observations across pricing, climate, and spatial variables
+          - Applied difference-in-differences, logit, and machine learning models using census surname and geospatial data
 
       - company: Reso
         position: Founder / Full Stack Developer
@@ -75,18 +68,18 @@ cv:
         start_date: May 2024
         end_date: Jun 2025
         highlights:
-          - Designed a movie recommendation algorithm using NLP to source movies from a database of more than 10 million titles.
-          - Created and managed backend infrastructure, user databases, servers, and UI using React Native and Python.
+          - Designed a movie recommendation system using NLP over a dataset of more than 10 million titles
+          - Built backend infrastructure and UI using React Native and Python
 
-    Volunteer:
+    volunteer:
       - organization: Associated Students of Stanford University
         position: Vice President
         location: Stanford, CA
         start_date: May 2025
         end_date: Present
         highlights:
-          - Elected Vice President of Stanford’s student body government, representing more than 18,000 students.
-          - Oversee the Undergraduate Senate and Graduate Student Council.
+          - Represent over 18,000 students as Vice President of the student body
+          - Oversee the Undergraduate Senate and Graduate Student Council
 
       - organization: Interfraternity Council
         position: President
@@ -94,8 +87,8 @@ cv:
         start_date: Dec 2024
         end_date: Dec 2025
         highlights:
-          - Coordinate and negotiate with Stanford administration on behalf of the fraternity and sorority life community.
-          - Propose administrative legislation, uphold standards across multiple organizations, and supervise fraternity recruitment logistics.
+          - Coordinate with university administration on behalf of the Greek community
+          - Manage recruitment logistics and organizational standards
 
       - organization: Habla
         position: Director of Community Outreach
@@ -103,15 +96,9 @@ cv:
         start_date: Nov 2022
         end_date: Jun 2025
         highlights:
-          - Organized advertising and logistics for more than 100 ESL coach and learner recruitment events.
+          - Organized more than 100 ESL recruitment and engagement events
 
-    Honors:
-      - QuestBridge Scholar
-      - Rensselaer Medal in Math and Science
-      - Stanford School of Engineering Coterminal Fellowship
-      - 2024 Donald C. Dilley Jr. Scholarship Recipient
-
-    Skills:
+    skills:
       - Python
       - JavaScript
       - C++
@@ -122,8 +109,8 @@ cv:
       - Data Analysis and Econometrics
       - Spanish
 
-    Interests:
+    interests:
       - Machine Learning
-      - Auction Theory and Market Design
+      - Market Design and Auction Theory
       - Mobile App Development
       - Art and Literature
