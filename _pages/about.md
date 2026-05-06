@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. wberr (at) stanford (dot) edu
+subtitle: <a href="/assets/pdf/Berriman__Will_Resume_April_2026.pdf" target="_blank" class="btn btn-primary">Download CV</a>. wberr (at) stanford (dot) edu
 
 profile:
   align: right
