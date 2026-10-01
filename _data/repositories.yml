@@ -4,6 +4,12 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - wtberr/wtberr.github.io
   - wtberr/cs-229-final-project
   - wtberr/SleepNDreams
-  - wtberr/Reso
+  - wtberr/wtberr
+  - wtberr/Treehacks-2025-Social-Matching
+  - wtberr/Pricing-with-Climate-data
+  - wtberr/Development-Econometrics-Analysis
+  - wtberr/Streaming-Optimization
+  - wtberr/Equitable-Resume-Screener

@@ -1,12 +1,21 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
-nav: false
+description: Will T. Berriman's curriculum vitae.
+nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Berriman__Will_Resume_April_2026.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description:
-toc:
-  sidebar: left
 ---
+
+<object
+  data="{{ '/assets/pdf/Berriman__Will_CV_Sep_2026.pdf' | relative_url }}"
+  type="application/pdf"
+  width="100%"
+  height="1100"
+  aria-label="Will T. Berriman CV"
+>
+  <p>
+    Your browser cannot display the PDF inline.
+    <a href="{{ '/assets/pdf/Berriman__Will_CV_Sep_2026.pdf' | relative_url }}">Download Will T. Berriman's CV</a>.
+  </p>
+</object>
