@@ -18,10 +18,17 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "A selection of Will T. Berriman&#39;s public GitHub repositories.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Will T. Berriman&#39;s curriculum vitae.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -461,6 +468,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-learning-to-allocate-capacity-constraints-and-kidney-discard-in-deceased-donor-allocation",
+          title: 'Learning to Allocate: Capacity Constraints and Kidney Discard in Deceased Donor Allocation',
+          description: "Honors thesis on capacity-aware kidney allocation and organ discard.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/honors_thesis/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
